@@ -1,0 +1,4 @@
+accept.txt
+multithreading.cpp
+programa
+salida.txt
